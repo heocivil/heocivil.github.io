@@ -14,7 +14,7 @@ title:  "딥러닝(Deep Learning)"
 
 
 
-<img src="../images/2022-07-04-deeplearning/dnn.png" height="300px" width="400px"  align="left">  
+<img src="../images/2022-07-04-deeplearning/dnn.png" height="300px" width="400px"  align="center">  
 
 
 
