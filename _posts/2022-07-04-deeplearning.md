@@ -1,6 +1,9 @@
 ---
 published: true
 comments: true
+categories: "Deep-Learning"
+tag: [deep learning, neural network]
+toc: true
 ---
 
 # 딥러닝(Deep Learning)
@@ -16,7 +19,7 @@ comments: true
 
 
 
-<img src="../images/2022-07-04-deeplearning/dnn.png" height="300px" width="400px"  align="center">  
+<img src="../../images/2022-07-04-deeplearning/dnn.png" height="300px" width="400px"  align="center">  
 
 
 
