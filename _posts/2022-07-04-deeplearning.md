@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "딥러닝(Deep Learning)"
+published: false
 ---
 
 ## 딥러닝 개념
@@ -15,18 +16,6 @@ title:  "딥러닝(Deep Learning)"
 
 
 <img src="../images/2022-07-04-deeplearning/dnn.png" height="300px" width="400px"  align="center">  
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
