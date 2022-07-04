@@ -1,4 +1,9 @@
 ---
+layout: post
+title:  "딥러닝(Deep Learning)"
+
+
+
 published: true
 comments: true
 ---
