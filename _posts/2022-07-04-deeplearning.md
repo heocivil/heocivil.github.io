@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "딥러닝(Deep Learning)"
-published: false
+published: true
 ---
+
+# 딥러닝(Deep Learning)
 
 ## 딥러닝 개념
  - 인공지능
