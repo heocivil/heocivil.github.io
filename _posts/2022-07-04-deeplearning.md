@@ -1,16 +1,14 @@
 ---
+title: "딥러닝(Deep Learning)"
 published: false
 comments: true
 categories: "Deep-Learning"
-tag: [deep learning, neural network]
+tag: [deep learning, neural network, deep learning structure]
 toc: true
 author_profile: false
 ---
+딥러닝에 대한 전반적인 로드맵
 
-**[Index]**[딥러닝 로드맵](https://heo-civil.tistory.com)
-{: .notice--danger}
-
-{% include video id="C2sqt9pG6K0" provider="youtube" %}
 
 # 딥러닝(Deep Learning)
 
@@ -32,8 +30,11 @@ author_profile: false
  bias 파라미터들을 기반으로한 선형 연산과 활성함수(activation function) 의 비선형 연산이 이루어집니다.
 
 ## 딥러닝 원리
+<img src="../../images/2022-07-05-FP_BP/fp_bp.png" height="300px" width="700px"> 
+
  인공 신경망은 순전파(forward propagation) 과정을 통해 결과 값을 얻고 역전파(backward propagation) 과정을 통해 cost function을
 이용하여 예측 값과 실제 값 들의 cost 를 구하고 gradient descent 를 이용하여 학습율(learning rate)를 기반으로 출력 층에서
-입력층 방향으로 weight 과 bias 파라미터들을 업데이트합니다. 위와 같이 순전파와 역전파 과정을 반복적으로 시행하면서 cost 값이 optimal  
-solution에 도달하는 weight 과 bias 파라미터들을 구하여 모델을 생성하여 새로운 값을 예측하는데 사용합니다.
+입력층 방향으로 weight 과 bias 파라미터들을 업데이트합니다. 위와 같이 순전파와 역전파 과정을 반복적으로 시행하면서 cost 값이 optimal solution에 도달하는 weight 과 bias 파라미터들을 구하여 모델을 생성하여 새로운 값을 예측하는데 사용합니다.
   
+
+
